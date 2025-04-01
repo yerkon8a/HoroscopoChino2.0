@@ -1,4 +1,4 @@
-HORSOCOPO CHINO SERVLET Y JSP
+HOROSOCOPO CHINO SERVLET Y JSP
 
 DESCRIPCIÓN:
 Se solicita la creación de un sistema web fabricado expresamente en lenguaje Java y la
